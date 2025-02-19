@@ -123,4 +123,4 @@ A copy of the license is included in the root of the plugin's directory. The fil
 
 ## Support
 
-For support, please visit [https://meonvalleyweb.com/support](https://meonvalleyweb.com/support) or email support@ymeonvalleyweb.com.
+For support, please visit [https://meonvalleyweb.com/support](https://meonvalleyweb.com/support) or email support@meonvalleyweb.com.
