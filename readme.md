@@ -59,10 +59,10 @@ After activation, visit **Users > Login Tracker Settings** to configure:
 
 ## Screenshots
 
-![Login History Dashboard](https://yoursite.com/wp-content/uploads/screenshots/login-history.png)
-![Failed Login Attempts](https://yoursite.com/wp-content/uploads/screenshots/failed-logins.png)
-![Statistics Overview](https://yoursite.com/wp-content/uploads/screenshots/statistics.png)
-![Settings Page](https://yoursite.com/wp-content/uploads/screenshots/settings.png)
+![Login History Dashboard](screenshots/login-history.jpg)
+![Failed Login Attempts](screenshots/failed-login-attempts.jpg)
+![Statistics Overview](screenshots/login-statistics.jpg)
+![Settings Page](screenshots/login-tracker-settings.jpg)
 
 ## Frequently Asked Questions
 
