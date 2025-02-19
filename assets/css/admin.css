@@ -1,0 +1,82 @@
+/**
+ * Custom Login Tracker Admin Styles
+ */
+
+/* General admin styles */
+.login-stats-overview {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.login-stats-card {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+    margin-right: 20px;
+    min-width: 300px;
+    padding: 15px;
+}
+
+.login-stats-card h2 {
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 0 15px;
+    padding-bottom: 10px;
+}
+
+/* Export button styles */
+.export-controls {
+    margin: 15px 0;
+}
+
+/* Filter styles */
+.tablenav .date-picker {
+    width: 100px;
+}
+
+.tablenav label span {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+/* Table specific styles */
+.widefat .user-agent-column {
+    position: relative;
+}
+
+.widefat .user-agent-truncated .show-more,
+.widefat .user-agent-full .show-less {
+    color: #0073aa;
+    cursor: pointer;
+}
+
+.widefat .user-agent-full {
+    background: #f8f8f8;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    left: 0;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+}
+
+/* Dashboard widget styles */
+#custom_login_tracker_widget .dashboard-widget-control-actions {
+    margin-top: 15px;
+    text-align: right;
+}
+
+/* Settings page styles */
+.settings_page_custom-login-tracker-settings .form-table th {
+    width: 250px;
+}
+
+.settings_page_custom-login-tracker-settings .form-table .description {
+    font-style: italic;
+    color: #666;
+}

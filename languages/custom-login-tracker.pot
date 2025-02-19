@@ -1,0 +1,37 @@
+# Copyright (C) 2025 Meon Valley Web - Andrew Wilkinson
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Login Tracker 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-login-tracker\n"
+"Last-Translator: Andrew Wilkinson <andrew@meonvalleyweb.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-19T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.0\n"
+"X-Domain: custom-login-tracker\n"
+
+#: includes/class-admin.php:27
+msgid "Login Tracker"
+msgstr ""
+
+#: includes/class-admin.php:34
+msgid "Failed Login Attempts"
+msgstr ""
+
+#: includes/class-admin.php:35
+msgid "Failed Logins"
+msgstr ""
+
+#: includes/class-admin.php:42
+msgid "Login Tracker Settings"
+msgstr ""
+
+#: includes/class-admin.php:49
+msgid "Login Statistics"
+msgstr ""
+
+#.
