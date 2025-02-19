@@ -118,9 +118,9 @@ A copy of the license is included in the root of the plugin's directory. The fil
 
 ## Credits
 
-* Developed by [Your Name](https://meonvalleyweb.com)
-* Icon made by [Designer Name] from [www.example.com](https://www.example.com)
+* Developed by [Meon Valley Web](https://meonvalleyweb.com)
+* Icon made by [Andrew Wilkinson] from [www.meonvalleyweb.com](https://www.meonvalleyweb.com.com)
 
 ## Support
 
-For support, please visit [https://yoursite.com/support](https://yoursite.com/support) or email support@yoursite.com.
+For support, please visit [https://meonvalleyweb.com/support](https://meonvalleyweb.com/support) or email support@ymeonvalleyweb.com.
