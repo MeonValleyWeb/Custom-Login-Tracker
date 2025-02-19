@@ -59,10 +59,10 @@ After activation, visit **Users > Login Tracker Settings** to configure:
 
 ## Screenshots
 
-![Login History Dashboard](screenshots/login-history.jpg)
-![Failed Login Attempts](screenshots/failed-login-attempts.jpg)
-![Statistics Overview](screenshots/login-statistics.jpg)
-![Settings Page](screenshots/login-tracker-settings.jpg)
+![Login History Dashboard](https://github.com/MeonValleyWeb/Custom-Login-Tracker/blob/main/screenshots/login-history.jpg)
+![Failed Login Attempts](https://github.com/MeonValleyWeb/Custom-Login-Tracker/blob/main/screenshots/failed-login-attempts.jpg)
+![Statistics Overview](https://github.com/MeonValleyWeb/Custom-Login-Tracker/blob/main/screenshots/login-statistics.jpg)
+![Settings Page](https://github.com/MeonValleyWeb/Custom-Login-Tracker/blob/main/screenshots/login-tracker-settings.jpg)
 
 ## Frequently Asked Questions
 
