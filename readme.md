@@ -100,6 +100,52 @@ Yes, the plugin tracks all WordPress logins regardless of how they're initiated.
 ### 1.1.0
 This update adds enhanced tracking capabilities and export functionality.
 
+## Roadmap
+
+I'm currently developing Custom Login Tracker with the following enhancements planned:
+
+### Upcoming Free Version Enhancements
+
+1. **Role-Based Analytics**
+   - Track login patterns by user role
+   - Show which roles are most active/inactive
+
+2. **Basic Security Improvements**
+   - Implement automatic temporary IP blocking after X failed attempts
+   - Add a simple login attempt limiter
+
+3. **Dashboard Improvements**
+   - Weekly/monthly summary reports
+   - Basic visual charts showing login activity
+
+4. **Integration Support**
+   - Basic integration with popular security plugins
+   - Compatibility with common login customization plugins
+
+### Future Pro Version Features
+
+We plan to develop a Pro version with advanced capabilities for enterprise users:
+
+#### Advanced Security
+- Real-time threat detection with AI/machine learning
+- IP reputation checking against known threat databases
+- Multi-factor authentication tracking
+- Custom security policies based on time, location, device
+
+#### Enterprise Analytics
+- Advanced reports & visualization with custom report builder
+- Scheduled email reports (daily/weekly/monthly)
+- User behavior analysis
+- Compliance tools for GDPR/HIPAA/SOC2
+
+#### Advanced Integrations
+- SSO tracking (SAML/OAuth providers)
+- Enterprise system integration (SIEM systems, API)
+- Team collaboration tools
+- Cloud service monitoring
+
+We welcome feedback and feature requests as we continue development!
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
