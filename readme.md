@@ -59,10 +59,26 @@ After activation, visit **Users > Login Tracker Settings** to configure:
 
 ## Screenshots
 
-![Login History Dashboard](/screenshots/login_history.jpg)
-![Failed Login Attempts](/screenshots/failed_login_attempts.jpg)
-![Statistics Overview](/screenshots/login_statistics.jpg)
-![Settings Page](/screenshots/login_tracker_settings.jpg)
+<table>
+<tr>
+    <td width="25%">
+        <img src="/screenshots/login_history.jpg" alt="Login History Dashboard" width="100%">
+        <p align="center"><em>Login History Dashboard</em></p>
+    </td>
+    <td width="25%">
+        <img src="/screenshots/failed_logins.jpg" alt="Failed Login Attempts" width="100%">
+        <p align="center"><em>Failed Login Attempts</em></p>
+    </td>
+    <td width="25%">
+        <img src="/screenshots/statistics.jpg" alt="Statistics Overview" width="100%">
+        <p align="center"><em>Statistics Overview</em></p>
+    </td>
+    <td width="25%">
+        <img src="/screenshots/settings.jpg" alt="Settings Page" width="100%">
+        <p align="center"><em>Settings Page</em></p>
+    </td>
+</tr>
+</table>
 
 ## Frequently Asked Questions
 
