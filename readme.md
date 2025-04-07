@@ -1,4 +1,4 @@
-# Custom Login Tracker
+# Wordpress Login Tracker
 
 Track and monitor WordPress user login activity with detailed statistics and enhanced security features.
 
